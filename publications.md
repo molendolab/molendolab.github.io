@@ -14,6 +14,8 @@
 #### 2019
 1. Kumar A, Manjegowda MC, John Mary DJS, Pal U, Kumar S, **Limaye AM**. Estrogen receptor-α is a determinant of protocadherin-8 expression in breast cancer cells. Gene Reports. 2019 Mar; 14:6-11. [Link](https://www.sciencedirect.com/science/article/pii/S2452014418301353)
 2. Puranik NV, Srivastava P, Bhatt G, John Mary DJS, **Limaye AM**, Sivaraman J. Determination and analysis of agonist and antagonist potential of naturally occurring flavonoids for estrogen receptor (ERα) by various parameters and molecular modelling approach. Sci Rep. 2019 May 15;9(1):7450. doi: 10.1038/s41598-019-43768-5. PMID: 31092862; PMCID: PMC6520524. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31092862/)
+
+#### 2017
 1. John Mary DJS, Manjegowda MC, Kumar A, Dutta S, **Limaye AM**. The role of cystatin A in breast cancer and its functional link with ERα. J Genet Genomics. 2017 Dec 20;44(12):593-597. doi: 10.1016/j.jgg.2017.10.001. Epub 2017 Dec 12. PMID: 29246862. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/29246862/)
 2. Manjegowda MC, Gupta PS, Limaye AM. Hyper-methylation of the upstream CpG island shore is a likely mechanism of GPER1 silencing in breast cancer cells. Gene. 2017 May 30;614:65-73. doi: 10.1016/j.gene.2017.03.006. Epub 2017 Mar 7. PMID: 28286086. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/28286086/)
 3.  Reddy Tadi SR, E V R A, **Limaye AM**, Sivaprakasam S. Enhanced production of optically pure d (-) lactic acid from nutritionally rich Borassus flabellifer sugar and whey protein hydrolysate based-fermentation medium. Biotechnol Appl Biochem. 2017 Mar;64(2):279-289. doi: 10.1002/bab.1470. Epub 2016 Apr 18. PMID: 26671214.[Pubmed](https://pubmed.ncbi.nlm.nih.gov/26671214/)
