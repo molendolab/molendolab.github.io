@@ -12,8 +12,8 @@
 3. John Mary DJS, Sikarwar G, Kumar A, **Limaye AM**. Interplay of ERα binding and DNA methylation in the intron-2 determines the expression and estrogen regulation of cystatin A in breast cancer cells. Mol Cell Endocrinol. 2020 Mar15;504:110701. doi: 10.1016/j.mce.2020.110701. Epub 2020 Jan 8. PMID: 31926189. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31926189/)
 
 #### 2019
-5. Kumar A, Manjegowda MC, John Mary DJS, Pal U, Kumar S, **Limaye AM**. Estrogen receptor-α is a determinant of protocadherin-8 expression in breast cancer cells. Gene Reports. 2019 Mar; 14:6-11. [Link](https://www.sciencedirect.com/science/article/pii/S2452014418301353)
-6. Puranik NV, Srivastava P, Bhatt G, John Mary DJS, **Limaye AM**, Sivaraman J. Determination and analysis of agonist and antagonist potential of naturally occurring flavonoids for estrogen receptor (ERα) by various parameters and molecular modelling approach. Sci Rep. 2019 May 15;9(1):7450. doi: 10.1038/s41598-019-43768-5. PMID: 31092862; PMCID: PMC6520524. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31092862/)
+1. Kumar A, Manjegowda MC, John Mary DJS, Pal U, Kumar S, **Limaye AM**. Estrogen receptor-α is a determinant of protocadherin-8 expression in breast cancer cells. Gene Reports. 2019 Mar; 14:6-11. [Link](https://www.sciencedirect.com/science/article/pii/S2452014418301353)
+2. Puranik NV, Srivastava P, Bhatt G, John Mary DJS, **Limaye AM**, Sivaraman J. Determination and analysis of agonist and antagonist potential of naturally occurring flavonoids for estrogen receptor (ERα) by various parameters and molecular modelling approach. Sci Rep. 2019 May 15;9(1):7450. doi: 10.1038/s41598-019-43768-5. PMID: 31092862; PMCID: PMC6520524. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31092862/)
 
 #### 2017
 1. John Mary DJS, Manjegowda MC, Kumar A, Dutta S, **Limaye AM**. The role of cystatin A in breast cancer and its functional link with ERα. J Genet Genomics. 2017 Dec 20;44(12):593-597. doi: 10.1016/j.jgg.2017.10.001. Epub 2017 Dec 12. PMID: 29246862. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/29246862/)
