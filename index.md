@@ -4,4 +4,4 @@ Our research group seeks to understand estrogen signaling, and its effects on ge
 
 ## More about our work
 1. [Research themes](./themes)
-2. [Publications](./publications)
+2. [Publications](./publications.md)
