@@ -1,5 +1,4 @@
 # Publications
-:bangbang: Our latest research
 
 ## 2021
 1. Saikia S, Pal U, Kalita DJ, Rai AK, Sarma A, Kataki AC, **Limaye AM**. RUNX1T1, a potential prognostic marker in breast cancer, is co-ordinately expressed with ERα, and regulated by estrogen receptor signalling in breast cancer cells. Mol Biol Rep . 2021 Jul 15. doi: 10.1007/s11033-021-06542-3. Online ahead of print. PMID: 34264479. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34264479/)
