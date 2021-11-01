@@ -9,7 +9,7 @@
 
 #### 2020
 1. Pal U, Ghosh S, **Limaye AM**. DNA methylation in the upstream CpG island of the GPER locus and its relationship with GPER expression in colon cancer cell lines. Mol Biol Rep. 2020 Sep 16. doi: 10.1007/s11033-020-05817-5. Epub ahead of print. PMID: 32936384. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32936384/)
-2.Nehru G, Tadi SRR, **Limaye AM**, Sivaprakasam S. Production and characterization of low molecular weight heparosan in Bacillus megaterium using Escherichia coli K5 glycosyltransferases. Int J Biol Macromol. 2020 Oct 1;160:69-76. doi: 10.1016/j.ijbiomac.2020.05.159. Epub 2020 May 21. PMID: 32445821. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32445821/)
+2. Nehru G, Tadi SRR, **Limaye AM**, Sivaprakasam S. Production and characterization of low molecular weight heparosan in Bacillus megaterium using Escherichia coli K5 glycosyltransferases. Int J Biol Macromol. 2020 Oct 1;160:69-76. doi: 10.1016/j.ijbiomac.2020.05.159. Epub 2020 May 21. PMID: 32445821. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32445821/)
 3. John Mary DJS, Sikarwar G, Kumar A, **Limaye AM**. Interplay of ERα binding and DNA methylation in the intron-2 determines the expression and estrogen regulation of cystatin A in breast cancer cells. Mol Cell Endocrinol. 2020 Mar15;504:110701. doi: 10.1016/j.mce.2020.110701. Epub 2020 Jan 8. PMID: 31926189. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31926189/)
 
 #### 2019
