@@ -7,5 +7,7 @@ Our research group seeks to understand estrogen signaling, and its effects on ge
 Check out our recent online pre-print in [bioRxiv](https://www.biorxiv.org/about-biorxiv). We present data to show that karanjin, a furanoflavoniod from Pongammia pinnata, affects gene expression in beast cancer cells in a manner that partly resembles estrogen. [Click here](https://www.biorxiv.org/content/10.1101/2021.10.28.466373v1) to access the article.
 
 ### More about our work
-1. [Research themes](./themes)
+1. [Research themes](./themes.md)
 2. [Publications](./publications.md)
+3. [Team](./team.md)
+
