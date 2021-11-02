@@ -4,17 +4,17 @@
 Anil Mukund Limaye Ph.D
 
 ## Ph.D Students
--Uttariya Pal
--Gaurav Bhatt (joint student co-supervised by Prof. Latha Rangan)
--Ningthoujam Sonia
--Juana Hatwik
--Musfica Saikia
--Ayushi Rehman (joint student co-supervised by Dr. Kusum Singh)
+1. Uttariya Pal
+2. Gaurav Bhatt (joint student co-supervised by Prof. Latha Rangan)
+3. Ningthoujam Sonia
+4. Juana Hatwik
+5. Musfica Saikia
+6. Ayushi Rehman (joint student co-supervised by Dr. Kusum Singh)
 
 
 ## M.Tech Students
--Ayesha Sanober
+1. Ayesha Sanober
 
 
 ## Junior Research Fellows
--Himanshu Ballav Goswami
+1. Himanshu Ballav Goswami
