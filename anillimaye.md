@@ -1,9 +1,10 @@
 # Anil Mukund Limaye
 Associate Professor
 
-[<img align="left" alt="github followers" src="https://img.shields.io/github/followers/molendolab?style=social" />][github]</br>
+[<img align="left" alt="github followers" src="https://img.shields.io/github/followers/molendolab?style=social" />][github]
 
-</br>**Affiliation**</br>
+
+**Affiliation**
 Department of Biosciences and Bioengineering</br>
 Indian Institute of Technology Guwahati
 
