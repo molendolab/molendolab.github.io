@@ -1,5 +1,6 @@
 # Anil Mukund Limaye
-Position: Associate Professor</br>Dept: Department of Biosciences and Bioengineering
+Position: Associate Professor</br>
+Dept: Department of Biosciences and Bioengineering
 
 Institute: Indian Institute of Technology Guwahati
 
