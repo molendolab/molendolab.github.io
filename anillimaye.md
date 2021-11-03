@@ -1,5 +1,5 @@
 # Anil Mukund Limaye
-Associate Professor</br>
+Associate Professor
 
 [<img align="left" alt="github followers" src="https://img.shields.io/github/followers/molendolab?style=social" />][github]</br>
 
