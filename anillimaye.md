@@ -7,4 +7,6 @@ Institute: Indian Institute of Technology Guwahati
 
 
 Address (office)
+  Room No. 305, O Block
+
 
