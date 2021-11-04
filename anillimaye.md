@@ -19,7 +19,9 @@ Phone: 0367-2582218
 
 ### Connect with Anil Limaye
 
-[<img align="left" alt="github followers" src="https://img.shields.io/github/followers/molendolab?color=blue&label=Connect&logo=Facebook&style=social" />][facebook]
+[<img align="left" alt="github followers" src="https://img.shields.io/github/followers/molendolab?color=white&label=facebook&logo=facebook&logoColor=blue&style=social" />][facebook]
+[<img align="left" alt="github followers" src="https://img.shields.io/github/followers/molendolab?color=white&label=twitter&logo=twitter&logoColor=blue&style=social" />][twitter]
+
 [<img align="left" alt="github followers" src="https://img.shields.io/github/followers/molendolab?color=white&label=github&logo=github&logoColor=blue&style=social" />][github]
 
 [<img align="left" alt="facebook link" width="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1635914035~hmac=6a1bf83aab3f9c5a565a782df910c0c2" />][facebook]
