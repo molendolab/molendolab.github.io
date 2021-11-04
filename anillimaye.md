@@ -15,6 +15,10 @@ Guwahati 781039, Assam, India
 email: amul@iitg.ac.in  
 Phone: 0367-2582218
 
+#### Professional activities
+Teaching: Core and elective courses for B.Tech, M.Tech, and Ph.D students.  
+Research: Supervision of M.Tech and Doctoral research  
+Administration: Both at the department and institute level
 
 
 #### Connect with Anil Limaye
