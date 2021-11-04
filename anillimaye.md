@@ -2,10 +2,8 @@
 **Associate Professor**
 
 [<img align="left" alt="github followers" src="https://img.shields.io/github/followers/molendolab?style=social" />][github]
-
-</br>
-</br>
-
+<br>
+<br>
 **Affiliation**
 </br>Department of Biosciences and Bioengineering</br>
 Indian Institute of Technology Guwahati
