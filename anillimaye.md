@@ -1,18 +1,18 @@
 # Anil Mukund Limaye
 **Associate Professor**
-
-
 <br>
 <br>
-**Affiliation**
+<p>
+<b>Affiliation</b>
 </br>Department of Biosciences and Bioengineering</br>
-Indian Institute of Technology Guwahati
+Indian Institute of Technology Guwahati</p>
 
-**Address** (office)</br>
+<p>
+  <b>Address</b> (office)</br>
 Room No. 305, O Block</br>
 Department of Biosciences and Bioengineering</br>
 Indian Institute of Technology Guwahati</br>
-Guwahati 781039, Assam, India
+Guwahati 781039, Assam, India</p>
 
 email: amul@iitg.ac.in</br>
 Phone: 0367-2582218
