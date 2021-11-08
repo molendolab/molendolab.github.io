@@ -11,7 +11,9 @@
 #### 2020
 1. Pal U, Ghosh S, **Limaye AM**. DNA methylation in the upstream CpG island of the GPER locus and its relationship with GPER expression in colon cancer cell lines. Mol Biol Rep. 2020 Sep 16. doi: 10.1007/s11033-020-05817-5. Epub ahead of print. PMID: 32936384. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32936384/)
 2. Nehru G, Tadi SRR, **Limaye AM**, Sivaprakasam S. Production and characterization of low molecular weight heparosan in Bacillus megaterium using Escherichia coli K5 glycosyltransferases. Int J Biol Macromol. 2020 Oct 1;160:69-76. doi: 10.1016/j.ijbiomac.2020.05.159. Epub 2020 May 21. PMID: 32445821. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32445821/)
-3. John Mary DJS, Sikarwar G, Kumar A, **Limaye AM**. Interplay of ERα binding and DNA methylation in the intron-2 determines the expression and estrogen regulation of cystatin A in breast cancer cells. Mol Cell Endocrinol. 2020 Mar15;504:110701. doi: 10.1016/j.mce.2020.110701. Epub 2020 Jan 8. PMID: 31926189. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31926189/)
+3. Ranganathan P, Chakrabarty A, Hiscox S, Limaye AM, Vella V. Editorial: Resistance to endocrine therapies in cancer. Front. Endocrinol. 2020 Apr 9;11:196.
+doi: 10.3389/fendo.2020.00196. eCollection 2020. PMID: 32328035. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32328035/)
+4. John Mary DJS, Sikarwar G, Kumar A, **Limaye AM**. Interplay of ERα binding and DNA methylation in the intron-2 determines the expression and estrogen regulation of cystatin A in breast cancer cells. Mol Cell Endocrinol. 2020 Mar15;504:110701. doi: 10.1016/j.mce.2020.110701. Epub 2020 Jan 8. PMID: 31926189. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31926189/)
 
 #### 2019
 1. Kumar A, Manjegowda MC, John Mary DJS, Pal U, Kumar S, **Limaye AM**. Estrogen receptor-α is a determinant of protocadherin-8 expression in breast cancer cells. Gene Reports. 2019 Mar; 14:6-11. [Link](https://www.sciencedirect.com/science/article/pii/S2452014418301353)
