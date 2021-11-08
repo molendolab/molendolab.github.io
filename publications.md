@@ -38,3 +38,5 @@ doi: 10.3389/fendo.2020.00196. eCollection 2020. PMID: 32328035. [Pubmed](https:
 1. Manjegowda CM, Deb G, **Limaye AM**. Epigallocatechin gallate induces the steady state mRNA levels of pS2 and PR genes in MCF-7 breast cancer cells. Indian J Exp Biol. 2014 Apr;52(4):312-6. PMID: 24772933. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24772933/)
 2. Prasad S, Srikanth K, **Limaye AM**, Sivaprakasam S. Homo-fermentative production of D-lactic acid by Lactobacillus sp. employing casein whey permeate as a raw feed-stock. Biotechnol Lett. 2014 Jun;36(6):1303-7. doi: 10.1007/s10529-014-1482-9. Epub 2014 Feb 22. PMID: 24563313. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24563313/)
 
+[Back to Home page](./index.md)
+
