@@ -10,5 +10,9 @@ Besides inducing genomic effects via the classical estrogen receptors ER-alpha a
 
 Our research focusses on the mechanisms of GPER regulation. Our finding, that DNA methylation in the upstream CpG island correlates with GPER expression in breast tumors, and breast cancer cell lines, is published ([Manjegowda et al, 2017](https://pubmed.ncbi.nlm.nih.gov/28286086/)). Our's is not the only laboratory to demonstrate this. However, one of the highlights of our work is the finding that eight terminal CpG dinucleotides in the downstream end of the island may play a major role in DNA methylation dependent silencing of GPER in breast cancer cells.
 
+<p align="center">
+<img src="IMG-20191117-WA0015_resize.jpg" align="center"/>
+</p>
+
 
 
