@@ -19,7 +19,7 @@ Article: [1](https://esmed.org/MRA/mra/article/view/1728), [2](https://link.spri
 
 ### A novel variant of GPER mRNA
 Recently we have reported a novel variant of GPER mRNA. At the time of publication of this article, only three transcript variants were curated in the NCBI nucleotide data base. During visualization of the known transcripts in UCSC Genome Browser, we found another transcript, with two exons and a long intron, that was annotated as GPER. This observation led us to investigate more on this variant and we could specifically amplify the transcript using cDNAs from MCF-7 cells, and colon cancer cell lines.  
-Acess the article with this [link](Access the paper with this [link](https://link.springer.com/article/10.1007/s11033-021-06242-y)
+Acess the article with this [link](https://link.springer.com/article/10.1007/s11033-021-06242-y)
 
 
 
