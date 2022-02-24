@@ -1,5 +1,8 @@
 # Publications
 
+#### 2022
+1. Pal U, Sahu A, Barah P, **Limaye AM**. Transcriptomic data of MCF-7 breast cancer cells treated with G1, a G-protein coupled estrogen receptor (GPER) agonist. Data Brief. (2022). 41:107948, 10.1016/j.dib.2022.107948. [Link](https://www.sciencedirect.com/science/article/pii/S2352340922001597)
+
 #### 2021
 1. Bhatt G, Gupta A, Rangan L, **Limaye AM**. Global transcriptome analysis reveals partial estrogen-like effects of karanjin in MCF-7 breast cancer cells. bioRxiv. doi: 10.1101/2021.10.28.466373. [Link](https://www.biorxiv.org/content/10.1101/2021.10.28.466373v1)
 2. Sharma R, Gogoi G, Saikia S, Sharma A, Kalita DJ, Sarma A, **Limaye AM**, Gaur MK, Bhattacharyya J, Jaganathan BG.BMP4 enhances anoikis resistance and chemoresistance of breast cancer cells through canonical BMP signaling. J. Cell Commun. Signal. (2021). doi: 10.1007/s12079-021-00649-9 [Link](https://link.springer.com/article/10.1007/s12079-021-00649-9)
