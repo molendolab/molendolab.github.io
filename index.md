@@ -9,7 +9,7 @@ Our research group seeks to understand estrogen signaling, and its effects on ge
 </p>
 
 ## What's new from molendolab
-Our RNA-seq data on MCF-7 cells treated with the GPER agonist, G1 is now submitted in Gene Expression Omnibus [GSE188706] (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188706). The data description article can be accessed with this [Link](https://www.sciencedirect.com/science/article/pii/S2352340922001597)
+Our RNA-seq data on MCF-7 cells treated with the GPER agonist, G1 is now submitted in Gene Expression Omnibus [GSE188706](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188706). The data description article can be accessed with this [Link](https://www.sciencedirect.com/science/article/pii/S2352340922001597)
 
 ### More about our work
 1. [Research themes](./ResearchThemes.md)
