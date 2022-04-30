@@ -20,3 +20,6 @@ I have made some short videos in Quantitative Biology and Cellular and Molecular
 #### My channel links
 1. [Stat-at-ease](https://www.youtube.com/channel/UCaUgZ7Ei_dZLH0qoR3xZdIA/featured)
 2. [Aging](https://www.youtube.com/channel/UCKYpjp9bSuCWZN8pMKBgeWw)
+
+#### Outreach activities
+1. I was a part of the outreach program organized by Dr. Debapratim Das at Delhi Public School, Namrup, North Guwahati. A short video clip of the event can be accessed [here](https://www.facebook.com/watch/?extid=WA-UNK-UNK-UNK-AN_GK0T-GK1C&v=956477761705013)
