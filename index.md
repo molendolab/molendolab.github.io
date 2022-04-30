@@ -9,6 +9,9 @@ Our research group seeks to understand estrogen signaling, and its effects on ge
 </p>
 
 ## What's new from molendolab
+**Karanjin** has partial estrogen like effects. This was a transcriptomics study that recently go published in Gene. The paper highlights the enrichment of G2/M checkpoint and estrogen-response-early genes in karanjin modulated gene repertoire in MCF-7 breast cancer cells. Here is the [link](https://www.sciencedirect.com/science/article/pii/S0378111922003262) to the paper on the journal site. The 50-day free access link for this paper is [here](https://authors.elsevier.com/a/1ezug1L%7EGAozq%7E).
+
+## Recent achievements
 Our RNA-seq data on MCF-7 cells treated with the GPER agonist, G1 is now submitted in Gene Expression Omnibus [GSE188706](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188706). The data description article can be accessed with this [Link.](https://www.sciencedirect.com/science/article/pii/S2352340922001597)
 
 ### More about our work
