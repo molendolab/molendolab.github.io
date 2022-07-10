@@ -1,8 +1,9 @@
 # Publications
 
 #### 2022
-1. Bhatt G, Gupta A, Rangan L, **Limaye AM**. Global transcriptome analysis reveals partial estrogen-like effects of karanjin in MCF-7 breast cancer cells. Gene. (2022) 830: 146507. doi: 10.1016/j.gene.2022.146507 [link](https://www.sciencedirect.com/science/article/pii/S0378111922003262)
-2. Pal U, Sahu A, Barah P, **Limaye AM**. Transcriptomic data of MCF-7 breast cancer cells treated with G1, a G-protein coupled estrogen receptor (GPER) agonist. Data Brief. (2022). 41:107948, 10.1016/j.dib.2022.107948. [Link](https://www.sciencedirect.com/science/article/pii/S2352340922001597)
+1. Uttariya Pal, Mohan Manjegowda, Neha Singh, Snigdha Saikia, Betty S. Philip, Deep Jyoti Kalita, Avdhesh Kumar Rai, Anupam Sarma, Vandana Raphael, Deepak Modi, Amal Chandra Kataki, **Anil Mukund Limaye**. The G-protein-coupled estrogen receptor, a gene co-expressed with ERα in breast tumors, is regulated by estrogen-ERα signalling in ERα positive breast cancer cells. BioRxiv (2022), doi: 10.1101/2022.06.14.496079 [link](https://www.biorxiv.org/content/10.1101/2022.06.14.496079v1.abstract)  
+2. Bhatt G, Gupta A, Rangan L, **Limaye AM**. Global transcriptome analysis reveals partial estrogen-like effects of karanjin in MCF-7 breast cancer cells. Gene. (2022) 830: 146507. doi: 10.1016/j.gene.2022.146507 [link](https://www.sciencedirect.com/science/article/pii/S0378111922003262)
+3. Pal U, Sahu A, Barah P, **Limaye AM**. Transcriptomic data of MCF-7 breast cancer cells treated with G1, a G-protein coupled estrogen receptor (GPER) agonist. Data Brief. (2022). 41:107948, 10.1016/j.dib.2022.107948. [Link](https://www.sciencedirect.com/science/article/pii/S2352340922001597)
 
 #### 2021
 1. Sharma R, Gogoi G, Saikia S, Sharma A, Kalita DJ, Sarma A, **Limaye AM**, Gaur MK, Bhattacharyya J, Jaganathan BG.BMP4 enhances anoikis resistance and chemoresistance of breast cancer cells through canonical BMP signaling. J. Cell Commun. Signal. (2021). doi: 10.1007/s12079-021-00649-9 [Link](https://link.springer.com/article/10.1007/s12079-021-00649-9)
