@@ -13,10 +13,12 @@
 
 
 ### M.Tech Students
-1. [Ayesha Sanober]()
+1. [Harsha Pincha]()
+2. [Pavan Dev G]()
 
 
 ### Junior Research Fellows
-1. [Himanshu Ballav Goswami]()  
+
+None
 
 [Back to Home Page](./index.md)
