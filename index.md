@@ -9,7 +9,7 @@ Our research group seeks to understand estrogen signaling, and its effects on ge
 </p>
 
 ## What's new from molendolab
-Our clinical study on the expression of GPER in breast tumors, and its association with ERalpha has been archived in BioRxiv. In this study we also show estrogen modulation of GPER in vivo and breast cancer cell lines. The preprint can be accessed through this [link.](https://www.biorxiv.org/content/10.1101/2022.06.14.496079v1.abstract)
+A paper announcing the submission of next generation sequencing data on the effects of enterolactone on MCF-7 breast cancer cells is out. The paper can be accessed through this [link.](https://www.sciencedirect.com/science/article/pii/S2352340923002172)
 
 ## Recent achievements
 **Karanjin** has partial estrogen like effects. This was a transcriptomics study that recently go published in Gene. The paper highlights the enrichment of G2/M checkpoint and estrogen-response-early genes in karanjin modulated gene repertoire in MCF-7 breast cancer cells. Here is the [link](https://www.sciencedirect.com/science/article/pii/S0378111922003262) to the paper on the journal site.
