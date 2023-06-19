@@ -9,7 +9,7 @@ Our research group seeks to understand estrogen signaling, and its effects on ge
 </p>
 
 ## What's new from molendolab
-Our latest paper on the estrogen regulation of the G-protein coupled estrogen receptor (GPER) in breast cancer cell lines is out. This work was a collaboration between Molecular Endocrinology Lab (IIT Guwahati), NIRRH (Mumbai), NEIGRIHMS (Shillon), and Dr. Bhubaneswar Borooah Cancer Institute (Guwahati). [link.](https://authors.elsevier.com/a/1hGqq_8cEQhuDb)
+Our latest paper on the estrogen regulation of the G-protein coupled estrogen receptor (GPER) in breast cancer cell lines is out. This work was a collaboration between Molecular Endocrinology Lab (IIT Guwahati), NIRRH (Mumbai), NEIGRIHMS (Shillon), and Dr. Bhubaneswar Borooah Cancer Institute (Guwahati). [Link.](https://authors.elsevier.com/a/1hGqq_8cEQhuDb)
 
 ## Recent achievements
 **Karanjin** has partial estrogen like effects. This was a transcriptomics study that recently go published in Gene. The paper highlights the enrichment of G2/M checkpoint and estrogen-response-early genes in karanjin modulated gene repertoire in MCF-7 breast cancer cells. Here is the [link](https://www.sciencedirect.com/science/article/pii/S0378111922003262) to the paper on the journal site.
