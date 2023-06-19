@@ -13,8 +13,7 @@
 
 
 ### M.Tech Students
-1. [Harsha Pincha]()
-2. [Pavan Dev G]()
+1. [Sreeja Mondal]()
 
 
 ### Junior Research Fellows
