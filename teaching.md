@@ -1,15 +1,15 @@
 # Teaching
 ## Courses
--Modern Biology
--Biochemistry
--Seminar course for third year B.Tech students
--Molecular Biology and Genetic engineering
--Cell and Molecular Biology
--Enzymology
--Biological Data Analysis
--Quantative Biology
--Human Biology and Diseases
--Cellular and Molecular Aspects of Aging
+- Modern Biology
+- Biochemistry
+- Seminar course for third year B.Tech students
+- Molecular Biology and Genetic engineering
+- Cell and Molecular Biology
+- Enzymology
+- Biological Data Analysis
+- Quantative Biology
+- Human Biology and Diseases
+- Cellular and Molecular Aspects of Aging
 
 # Video lectures
 
