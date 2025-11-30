@@ -7,9 +7,6 @@
 4. Sonia, N., Saikia, S., & **Limaye, A. M**. (2025). Estrogenic control of matrix metalloproteinases: a perspective on breast tumor invasion and metastasis. Molecular biology reports, 52(1), 453. [Link](https://link.springer.com/article/10.1007/s11033-025-10555-7)
 5. Bhatt, G., Limaye, A.M. & Rangan, L. Phytochemicals: a Natural Prospect Toward Healthcare—a Tryst with Karanjin. Proc. Natl. Acad. Sci., India, Sect. B Biol. Sci. 95, 1–7 (2025). [link](https://link.springer.com/article/10.1007/s40011-024-01557-9)
 
-#### 2024
-
-
 #### 2023
 
 1. Uttariya Pal, Mohan Manjegowda, Neha Singh, Snigdha Saikia, Betty S. Philip, Deep Jyoti Kalita, Avdhesh Kumar Rai, Anupam Sarma, Vandana Raphael, Deepak Modi, Amal Chandra Kataki, **Anil Mukund Limaye**. The G-protein-coupled estrogen receptor, a gene co-expressed with ERα in breast tumors, is regulated by estrogen-ERα signalling in ERα positive breast cancer cells. Gene (2023) 877: 147548. [Link](https://authors.elsevier.com/a/1hGqq_8cEQhuDb)
