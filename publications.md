@@ -1,4 +1,14 @@
 # Publications
+#### 2025
+
+1. Juana Hatwik, Ningthoujam Sonia, **Anil M. Limaye**. Enterolactone, a mammalian enterolignan, differentially modulates CYP1A1 mRNA and protein in MCF-7 breast cancer cells, Journal of Agriculture and Food Research, Volume 24, 2025,
+102483, ISSN 2666-1543, https://doi.org/10.1016/j.jafr.2025.102483. [Link](https://www.sciencedirect.com/science/article/pii/S2666154325008543)
+2. Ningthoujam Sonia, Sreeja Mondal, Anil Mukund Limaye. Expression of MMP-11, an estrogen-suppressed gene in MCF-7 cells, is elevated upon acquisition of tamoxifen resistance, Gene Reports. Volume 40, 2025, 102286, ISSN 2452-0144. [Link](https://www.sciencedirect.com/science/article/abs/pii/S2452014425001591)
+3. Sonia, N., Saikia, S., & **Limaye, A. M**. (2025). Estrogenic control of matrix metalloproteinases: a perspective on breast tumor invasion and metastasis. Molecular biology reports, 52(1), 453. https://doi.org/10.1007/s11033-025-10555-7 [Link](https://link.springer.com/article/10.1007/s11033-025-10555-7)
+4. Bhatt, G., Limaye, A.M. & Rangan, L. Phytochemicals: a Natural Prospect Toward Healthcare—a Tryst with Karanjin. Proc. Natl. Acad. Sci., India, Sect. B Biol. Sci. 95, 1–7 (2025). https://doi.org/10.1007/s40011-024-01557-9. [link](https://link.springer.com/article/10.1007/s40011-024-01557-9)
+
+#### 2024
+
 
 #### 2023
 
