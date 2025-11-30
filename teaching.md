@@ -1,7 +1,5 @@
 # Teaching
-
 ## Courses
-
 ### Modern Biology
 ### Biochemistry
 ### Seminar course for third year B.Tech students
