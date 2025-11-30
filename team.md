@@ -4,20 +4,11 @@
 [Anil Mukund Limaye](./anillimaye.md)
 
 ### Ph.D Students
-1. [Uttariya Pal]()
-2. [Gaurav Bhatt]()
-3. [Ningthoujam Sonia]()
-4. [Juana Hatwik]()
-5. [Musfica Saikia]()
-6. [Ayushi Rehman]()
-
+1. [Epsita Mukherjee]()
+2. [Ibakordor Khyriem]()
 
 ### M.Tech Students
-1. [Sreeja Mondal]()
+1. [Sandra Surendran]()
 
-
-### Junior Research Fellows
-
-None
 
 [Back to Home Page](./index.md)
