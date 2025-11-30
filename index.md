@@ -1,5 +1,5 @@
 # Molecular Endocrinology Lab
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmolendolab.github.io&count_bg=%236CA73F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <p align="center">
 <img src="IMG-20191117-WA0015_resize.jpg" align="center"/>
 </p>
